@@ -8,7 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=singhtanya05&label=Profile%20views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -97,7 +96,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,figma,matlab&theme=light" alt="System Tools" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -157,7 +155,6 @@
 <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhtanya05&theme=default&hide_border=true&layout=compact&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=FF6B9D&hide=html,css&border_radius=10" alt="Language Stats"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
