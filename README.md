@@ -272,7 +272,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://singhtanya05.github.io/portfolio/">
+  <a href="https://singhtanya05.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Work-FF6B9D?style=for-the-badge&logoColor=white" alt="Portfolio" height="32"/>
   </a>
 </p>
