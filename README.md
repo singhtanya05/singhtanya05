@@ -298,8 +298,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Made+with+❤️+and+lots+of+☕;Created+by+Tanya+with+💖;Thanks+for+visiting!+🌟" alt="Footer Credits" />
+<div style="position: relative; display: inline-block;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Made+with+❤️+and+lots+of+☕;Created+by+Tanya+with+💖;Thanks+for+visiting!+🌟" alt="Footer Credits" />
+  </div>
+</div>
 
 </div>
